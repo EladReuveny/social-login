@@ -1,7 +1,3 @@
-Sure! Here’s a detailed README file tailored specifically for your login interface project:
-
----
-
 # Login Interface
 
 ## Description
